@@ -1,0 +1,27 @@
+{
+  "name": "backend-uar-chai",
+  "version": "1.0.0",
+  "description": "backend development",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit-Saurabh98/backend-uar-chai.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs"
+  ],
+  "author": "Sumit Saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumit-Saurabh98/backend-uar-chai/issues"
+  },
+  "homepage": "https://github.com/Sumit-Saurabh98/backend-uar-chai#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
