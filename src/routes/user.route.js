@@ -6,7 +6,8 @@ import {
     refreshAccessToken, 
     changeCurrentPassword, 
     getCurrentUser, 
-    updateUserAvatar, 
+    updateUserAvatar,
+    updateAccountDetails, 
     updateUserCoverImage, 
     getUserChannelProfile, 
     getWatchHistory 
